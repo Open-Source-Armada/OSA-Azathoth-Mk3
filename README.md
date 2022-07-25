@@ -79,7 +79,7 @@ I am a manual flyer, prefering to navigate the shorter distances around Arma wit
 
 It is also lighter on both prop and fuel than the Gido, this is due to me prefering to do my hauling with dedicated haulers, and leave my miner at stations/cap ships.
 
-Where it excels is speed and carring capacity.
+Where it excels is speed and carrying capacity.
 
 1040 crates leaves more room for chunkers (the Gido would often come short on my last T10, unacceptable)
 
